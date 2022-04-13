@@ -1,0 +1,13 @@
+body {
+    min-height: 1500px;
+}
+
+.jumbotron {
+    padding-top: 2rem;
+    background-color: rgb(167, 240, 203);
+    text-align: center;
+}
+
+.jumbotron img {
+    width: 200px;
+}
